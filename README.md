@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on python, oracle
 <br><br>
-🌱 I’m currently learning linux, advanced python
+🌱 I’m currently learning linux, advanced python, performance testing
 <br><br>
 👯 I’m looking to collaborate on django projects
 <br><br>
